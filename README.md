@@ -1,40 +1,48 @@
-✨ Aarti Panchal
+<!-- ✨ Aarti's GitHub Profile ✨ -->
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
-🧠 AI Agent Builder | NCC Air Wing Cadet | Explorer of AI Boundaries
+<h2 align="center">👋 Hi, I'm Aarti Panchal</h2>
 
-💡 About Me
+<p align="center">
+🎓 B.Tech in <b>Artificial Intelligence & Machine Learning</b> <br>
+🧠 AI Agent Builder | NCC Air Wing Cadet | Tech Explorer
+</p>
 
-Building an offline AI agent with its own brain, memory & emotions.
+---
 
-Exploring AI tools to see what they can and can’t do.
+### 💡 About Me  
+- 🚀 Building an **offline AI agent** with memory, emotions & its own brain  
+- 🔍 Exploring **AI tools** to test their limits  
+- 🧩 Believer in: *“AI isn’t replacing developers — it’s upgrading us.”*  
+- 💬 Love experimenting & building to make life easier with AI  
 
-Passionate about making life easier with intelligent systems.
+---
 
-Believe: “AI isn’t replacing developers — it’s upgrading us.”
+### 🧰 Tech Stack  
+`Python` • `JavaScript` • `React` • `TailwindCSS` • `Node.js`  
+`Machine Learning` • `AI Agents` • `Prompt Engineering` • `Git`
 
-🧰 Skills & Tools
+---
 
-Python • JavaScript • React • TailwindCSS • Node.js • HTML/CSS
-Machine Learning • AI Agents • Prompt Engineering • Git
+### ⚙️ Currently Working On  
+- 🧠 Offline AI Agent (emotion + memory system)  
+- 🌐 Portfolio & automation experiments  
+- 🤝 Collaborating on AI-based projects  
 
-🚀 Currently Working On
+---
 
-🧩 Offline AI agent with emotions & memory
+### 📈 GitHub Insights  
 
-⚙️ AI-powered automation experiments
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight" height="150">
+</p>
 
-🌐 Personal portfolio & open-source projects
+---
 
-📈 GitHub Insights
-![Aarti’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight)
+### 🌍 Connect With Me  
+📫 **aartipanchal01@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/aarti-panchal/)  
 
+---
 
-
-
-🌍 Connect With Me
-
-📩 aartipanchal01@gmail.com
-
-💼 LinkedIn
+<p align="center">🪶 *"Discipline, curiosity, and AI — my trio for progress."*</p>
