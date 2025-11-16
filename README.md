@@ -10,23 +10,13 @@
 ---
 
 ### 💡 About Me  
-- 🚀 Building an **offline AI agent** with memory, emotions & its own brain  
-- 🔍 Exploring **AI tools** to test their limits  
-- 🧩 Believer in: *“AI isn’t replacing developers — it’s upgrading us.”*  
-- 💬 Love experimenting & building to make life easier with AI  
-
+I'm a 19-year-old engineer building AI systems that think, remember, and evolve.  
+Currently working on **EKA**, an brain-inspired AI agent, and **Khoj**, a lost & found platform.
 ---
 
 ### 🧰 Tech Stack  
 `Python` • `JavaScript` • `React` • `TailwindCSS` • `Node.js`  
 `Machine Learning` • `AI Agents` • `Prompt Engineering` • `Git`
-
----
-
-### ⚙️ Currently Working On  
-- 🧠 Offline AI Agent (emotion + memory system)  
-- 🌐 Portfolio & automation experiments  
-- 🤝 Collaborating on AI-based projects  
 
 ---
 
@@ -44,5 +34,3 @@
 💼 [LinkedIn](https://www.linkedin.com/in/aarti-panchal/)  
 
 ---
-
-<p align="center">🪶 *"Discipline, curiosity, and AI — my trio for progress."*</p>
