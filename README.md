@@ -4,32 +4,32 @@
 
 <p align="center">
 🎓 B.Tech in <b>Artificial Intelligence & Machine Learning</b> <br>
-🧠 AI Agent Builder | NCC Air Wing Cadet | Tech Explorer
+Student • Founder • AI Developer  
+I build fast, experiment a lot, and get things done.
 </p>
 
 ---
-
-### 💡 About Me  
-I'm a 19-year-old engineer building AI systems that think, remember, and evolve.  
-Currently working on **EKA**, an brain-inspired AI agent, and **Khoj**, a lost & found platform.
----
-
-### 🧰 Tech Stack  
-`Python` • `JavaScript` • `React` • `TailwindCSS` • `Node.js`  
-`Machine Learning` • `AI Agents` • `Prompt Engineering` • `Git`
+## What I'm Working On
+- **Khoj:** A campus-wide lost & found system  
+- **EKA:** A brain-inspired autonomous agent (memory + emotion + reasoning)
 
 ---
 
-### 📈 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight" height="150">
-</p>
+## Skills
+**AI & Systems:** AI Agents, ML basics, Embedding + Memory systems  
+**Backend:** Node.js, REST APIs, Serverless workflows  
+**Frontend:** React, TailwindCSS  
+**Tools:** Git, Vercel, Automation tools  
 
 ---
 
-### 🌍 Connect With Me  
+## GitHub Insights
+![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight)
+
+---
+
+## Let's Connect
 📫 **aartipanchal01@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/aarti-panchal/)  
 
