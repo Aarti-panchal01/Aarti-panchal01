@@ -15,8 +15,7 @@ I build fast, experiment a lot, and get things done.
 
 ---
 
-## Skills
-**AI & Systems:** AI Agents, ML basics, Embedding + Memory systems  
+## Skills  
 **Backend:** Node.js, REST APIs, Serverless workflows  
 **Frontend:** React, TailwindCSS  
 **Tools:** Git, Vercel, Automation tools  
