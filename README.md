@@ -24,7 +24,8 @@ I build fast, experiment a lot, and get things done.
 
 ## GitHub Insights
 ![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Aarti-panchal01&layout=compact&theme=tokyonight)
 
 ---
 
