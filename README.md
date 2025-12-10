@@ -4,7 +4,7 @@
 
 <p align="center">
 🎓 B.Tech in <b>Artificial Intelligence & Machine Learning</b> <br>
-Student • Founder • AI Developer  
+Student • AI Developer  
 I build fast, experiment a lot, and get things done.
 </p>
 
