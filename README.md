@@ -30,7 +30,7 @@ I build fast, experiment a lot, and get things done.
 ---
 
 ## Let's Connect
-📫 **aartipanchal01@gmail.com**  
+📫 **aartipanchal539@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/aarti-panchal/)  
 
 ---
