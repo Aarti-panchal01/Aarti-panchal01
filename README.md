@@ -9,7 +9,7 @@
 🎓 B.Tech Artificial Intelligence & Machine Learning <br>
 📍 Bengaluru, India
 </p>
-
+ 
 <p align="center">
 I build systems fast, test ideas in the real world, and iterate relentlessly.
 </p>
