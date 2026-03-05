@@ -33,21 +33,9 @@ Building high-impact prototypes across AI, Web3, and infrastructure.
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Node.js
-- REST APIs
-- Serverless architecture
-- MongoDB
-
-**Frontend**
-- React
-- TailwindCSS
-
-**Tools**
-- Git
-- Vercel
-- Docker
-- Automation tools
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,js,python,mongodb,tailwind,docker,git,vercel" />
+</p>
 
 ---
 
