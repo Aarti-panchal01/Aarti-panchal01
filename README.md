@@ -52,9 +52,9 @@ Building high-impact prototypes across AI, Web3, and infrastructure.
 ---
 ## GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarti-panchal01&theme=tokyo-night)
 
