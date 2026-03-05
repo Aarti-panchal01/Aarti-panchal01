@@ -57,24 +57,6 @@ Building high-impact prototypes across AI, Web3, and infrastructure.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarti-panchal01&theme=tokyo-night)
 
-
-
----
-
-## 🌐 Links
-
-📫 Email  
-aartipanchal539@gmail.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/aarti-panchal/
-
-🌍 Portfolio  
-https://aarti-panchal.site/
-
-📷 Instagram  
-aarrttiii47
-
 ---
 
 ## 🧠 Philosophy
