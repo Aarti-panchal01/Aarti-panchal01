@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋 I'm Aarti Panchal</h1>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aarti-panchal01&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
 🚀 Builder | Aspiring Founder <br>
 🎓 B.Tech Artificial Intelligence & Machine Learning <br>
 📍 Bengaluru, India
