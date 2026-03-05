@@ -50,12 +50,15 @@ Building high-impact prototypes across AI, Web3, and infrastructure.
 - Automation tools
 
 ---
-
-## 📊 GitHub Insights
+## GitHub Insights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarti-panchal01&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-panchal01&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarti-panchal01&theme=tokyo-night)
+
+
 
 ---
 
