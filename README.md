@@ -39,6 +39,7 @@ Accepted as Contributor / Mentee in GirlScript Summer of Code 2026
 Track: Open Source + AI Agents  
 
 → Focus: Building real-world contributions, not just PR count
+
 → Goal: Ship meaningful features & rank in top contributors
 
 ---
