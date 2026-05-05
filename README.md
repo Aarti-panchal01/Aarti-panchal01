@@ -33,6 +33,14 @@ Memory + reasoning + emotional modeling.
 ⚡ **Hackathon Systems**  
 Building high-impact prototypes across AI, Web3, and infrastructure.
 
+## 🚀 Selected for GSSoC 2026
+
+Accepted as Contributor / Mentee in GirlScript Summer of Code 2026  
+Track: Open Source + AI Agents  
+
+→ Focus: Building real-world contributions, not just PR count
+→ Goal: Ship meaningful features & rank in top contributors
+
 ---
 
 ## 🛠 Tech Stack
