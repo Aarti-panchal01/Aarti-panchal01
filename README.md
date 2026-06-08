@@ -24,7 +24,7 @@ I build systems fast, test ideas in the real world, and iterate until something 
 
 | | |
 |---|---|
-| 🏥 **C4GT DMP 2026** | Helpline104-UI Angular 4 → 19 migration · Piramal Swasthya · Mentored by IIIT Hyderabad |
+| 🏥 **C4GT DMP 2026** | Helpline104-UI Angular 4 → 19 migration · Piramal Swasthya · Mentored by IIIT Hyderabad|
 | 🔍 **Khoj** | Campus-wide lost & found platform · 500+ users @ PES University · [khojapp.in](https://www.khojapp.in) |
 | 🌱 **GSSoC 2026** | Open Source Contributor / Mentee · Track: Open Source + AI Agents |
 
@@ -36,7 +36,7 @@ I build systems fast, test ideas in the real world, and iterate until something 
 |---|---|---|
 | **[Khoj](https://www.khojapp.in)** | Campus lost & found platform — 500+ users, live at PESU | Node.js, React, MongoDB |
 | **[VerifiEd](https://github.com/Aarti-panchal01/verifi.ed)** | On-chain credential verification — tamper-proof proof of work on Algorand | Algorand, Smart Contracts, Node.js, React, AI scoring |
-| **[ARIA Agent](https://github.com/Aarti-panchal01/aria-agent)** | Sign language recognition agent | Python, Computer Vision, AI |
+| **[ARIA Agent](https://github.com/Aarti-panchal01/aria-agent)** | Autonomous Research Intelligence Agent — 7-node LangGraph agent, critic loop, replanning, vector memory (ChromaDB), markdown + JSON output | Python, LangGraph, Groq, Tavily, ChromaDB, Streamlit |
 | **[MINDCRAFT](https://github.com/Aarti-panchal01/MINDCRAFT)** | AI systems prototype | Python |
 
 ---
@@ -52,6 +52,7 @@ I build systems fast, test ideas in the real world, and iterate until something 
 🌸  GSSoC 2026 — GirlScript Summer of Code
     Role       : Accepted Contributor / Mentee
     Track      : Open Source + AI Agents
+    Status     : Selected Contributor · Track: Open Source + AI Agents
 ```
 
 ---
@@ -60,6 +61,13 @@ I build systems fast, test ideas in the real world, and iterate until something 
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,react,js,ts,python,mongodb,tailwind,docker,git,vercel,angular" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-grey?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-black?style=flat" />
+<img src="https://img.shields.io/badge/ChromaDB-purple?style=flat" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorand-black?style=flat" />
 </p>
 
 ---
