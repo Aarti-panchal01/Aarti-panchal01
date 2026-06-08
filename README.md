@@ -26,8 +26,6 @@ I build systems fast, test ideas in the real world, and iterate until something 
 |---|---|
 | 🏥 **C4GT DMP 2026** | Helpline104-UI Angular 4 → 19 migration · Piramal Swasthya · Mentored by IIIT Hyderabad|
 | 🔍 **Khoj** | Campus-wide lost & found platform · 500+ users @ PES University · [khojapp.in](https://www.khojapp.in) |
-| 🌱 **GSSoC 2026** | Open Source Contributor / Mentee · Track: Open Source + AI Agents |
-
 ---
 
 ## 🚀 Featured Projects
@@ -49,10 +47,6 @@ I build systems fast, test ideas in the real world, and iterate until something 
     Org        : Piramal Swasthya Management and Research Institute
     Mentors    : IIIT Hyderabad, Raj Reddy Center for Technology and Society
 
-🌸  GSSoC 2026 — GirlScript Summer of Code
-    Role       : Accepted Contributor / Mentee
-    Track      : Open Source + AI Agents
-    Status     : Selected Contributor · Track: Open Source + AI Agents
 ```
 
 ---
