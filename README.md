@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-🚀 Builder · Founder · Open-Source Contributor<br>
+🚀 Founder @ <a href="https://www.khojapp.in">Khoj</a> · C4GT DMP '26 @ Piramal Swasthya · Open-Source Contributor<br>
 🎓 B.Tech Artificial Intelligence & Machine Learning — PES University, EC Campus<br>
 📍 Bengaluru, India
 </p>
@@ -24,18 +24,18 @@ I build systems fast, test ideas in the real world, and iterate until something 
 
 | | |
 |---|---|
-| 🏥 **C4GT DMP 2026** | Helpline104-UI Angular 4 → 19 migration · Piramal Swasthya · Mentored by IIIT Hyderabad|
-| 🔍 **Khoj** | Campus-wide lost & found platform · 500+ users @ PES University · [khojapp.in](https://www.khojapp.in) |
+| 🏥 **C4GT DMP 2026** | Rebuilding [Helpline104-UI](https://github.com/PSMRI/Helpline104-UI-NEXT) — Angular 4 → 20, ~118 components · 65 services · 28+ merged PRs · Piramal Swasthya · Mentored by IIIT Hyderabad |
+| 🔍 **Khoj** | Campus lost & found platform · live across 20+ Bengaluru campuses · [khojapp.in](https://www.khojapp.in) · [code](https://github.com/Aarti-panchal01/khoj-2.0) |
 ---
 
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Khoj](https://www.khojapp.in)** | Campus lost & found platform — 500+ users, live at PESU | Node.js, React, MongoDB |
-| **[VerifiEd](https://github.com/Aarti-panchal01/verifi.ed)** | On-chain credential verification — tamper-proof proof of work on Algorand | Algorand, Smart Contracts, Node.js, React, AI scoring |
+| **[Helpline104-UI-NEXT](https://github.com/PSMRI/Helpline104-UI-NEXT)** | Angular 20 rebuild of India's 104 health-helpline UI — auth, CTI telephony, SNOMED CT search, role workspaces · 28+ merged PRs | Angular 20, TypeScript, ZardUI |
+| **[Khoj](https://github.com/Aarti-panchal01/khoj-2.0)** | Campus lost & found platform — live across 20+ Bengaluru campuses at [khojapp.in](https://www.khojapp.in) | React, Express, MongoDB, Cloudinary |
 | **[ARIA Agent](https://github.com/Aarti-panchal01/aria-agent)** | Autonomous Research Intelligence Agent — 7-node LangGraph agent, critic loop, replanning, vector memory (ChromaDB), markdown + JSON output | Python, LangGraph, Groq, Tavily, ChromaDB, Streamlit |
-| **[MINDCRAFT](https://github.com/Aarti-panchal01/MINDCRAFT)** | AI systems prototype | Python |
+| **[VerifiEd](https://github.com/Aarti-panchal01/verifi.ed)** | On-chain credential verification — proof of work on Algorand | Algorand, Smart Contracts, Node.js, React, AI scoring |
 
 ---
 
@@ -43,7 +43,7 @@ I build systems fast, test ideas in the real world, and iterate until something 
 
 ```
 🎯  C4GT DMP 2026
-    Project    : Helpline104-UI — Angular 4 to Angular 19 + Zard UI Migration
+    Project    : Helpline104-UI — Angular 4 to Angular 20 + Zard UI Migration
     Org        : Piramal Swasthya Management and Research Institute
     Mentors    : IIIT Hyderabad, Raj Reddy Center for Technology and Society
 
