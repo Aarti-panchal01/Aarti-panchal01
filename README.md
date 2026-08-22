@@ -6,7 +6,7 @@ C4GT DMP '26 Fellow at Piramal Swasthya · Founder of Khoj · Bengaluru, India
 </p>
 
 <p align="center">
-<a href="https://aarti-tech-portfolio.vercel.app">Portfolio</a> ·
+<a href="https://aarti-panchal.site">Portfolio</a> ·
 <a href="https://linkedin.com/in/aarti-panchal">LinkedIn</a> ·
 <a href="https://the-eka.vercel.app">Eka</a> ·
 <a href="https://www.khojapp.in">Khoj</a>
